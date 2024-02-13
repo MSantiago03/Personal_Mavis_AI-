@@ -1,2 +1,2 @@
-# Personal_Mavis_AI-
-Final assignemnt for Mavis 3 Assignment
+# Mavis AI Environment -
+This is the result of a semesters worth of work. I worked in a team of 3 to impliment logic for an agent or multiple agents at at a time to find their goal state. We were provided a skeleton and an environment to get graphics and see how agent behaves. We applied algorithms, like BFS and DFS, into so agents arrive at their goal states. Additionally, we ran benchmarks and anaylzed the performance of our implementaiton. The heurstics we used initially goal count and later updated to manhattan distance in order to prevent movemnts from being so random. 
